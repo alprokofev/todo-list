@@ -1,0 +1,51 @@
+.form-group {
+    margin-bottom: 5px;
+}
+
+.label-done {
+    color: green;
+}
+
+.label-undone {
+    color: red;
+}
+
+span {
+    font-size: 16px;
+}
+
+.taskInput {
+    width: 400px;
+}
+
+label {
+    margin-left: 10px;
+}
+
+.task-section {
+    display: inline-block;
+    margin-left: 0px;
+    width: 400px;
+}
+
+.state-section {
+    margin-left: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+}
+
+.action-section {
+    display: inline-block;
+    width: 190px;
+}
+
+.btnEdit, .btnDelete, .btnSave, .btnCancel {
+    margin: 7px;
+    display: inline-block;
+    background-color: blue;
+    width: 80px;
+    height: 20px;
+    font-size: 14px;
+}
